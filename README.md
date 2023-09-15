@@ -16,3 +16,6 @@ The program will create an email address based on the provided information.
 You can set the mailbox capacity, alternate email, change the password, and adjust the password length using the available methods.
 
 Use the InfoCheck method to retrieve information about the email account.
+
+I Enhanced a Java Email Generator based on insights gained from a reference video, implementing significant improvements to the application: 
+https://www.youtube.com/watch?v=U3Ibvu0htNs
